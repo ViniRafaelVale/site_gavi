@@ -1,0 +1,160 @@
+#menu{
+    background-color: rgba(1, 131, 170, 0.801);
+};
+
+#titulo{
+    font-family: Bebas;
+};
+
+#submenus{
+    color: aliceblue;
+};
+
+.containerX{
+    width: auto;
+    height: 100px;
+    margin: 100px;
+    padding: 100px;
+}
+
+#carouselExampleAutoplaying{
+    background-color: #4831c94b;
+    width: auto;
+    height: 400px;
+    margin: 150px auto 0px auto;
+    padding: 30px 20% 30px 20%;
+}
+
+.containerY{
+    width: auto;
+    height: 500px;
+    border: 1px solid rgba(255, 0, 0, 0);
+}
+
+.textinho{
+    height: 300px;
+    width: 900px;
+    background-color: #4831c94b;
+    border: 5px solid white; 
+    color: black;
+    margin: 250px auto 0px auto;
+    border-radius: 10px;
+    
+}
+
+.sub1{
+    font-size: 23px;
+    padding: 40px 40px 0px 40px;
+    font-family: Bebas;
+    text-align: center;
+    color: rgb(43, 42, 42);
+}
+
+.sub2{
+    font-weight: lighter;
+    font-size: 45px;
+    text-align: center;
+    color: whitesmoke;
+}
+
+p{
+    font-family: Epika;
+    font-size: 18px;
+    text-align: center;
+    padding: 20px 40px 10px 40px;
+    color: rgb(43, 42, 42);
+}
+
+.copyright{
+    background-color: rgba(1, 131, 170, 0.801);
+    height: 100px;
+    width: auto;
+    margin-top: 150px;
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+}
+
+
+/* ---------------------------------------- */
+
+.containerhorario{
+    width: auto;
+    height: 1000px;
+    margin: 150px auto 0px auto;
+   
+}
+
+.tabelahorario{
+    width: 800px;
+    text-align: center;
+    margin: 50px auto 0px auto;
+}
+
+.textinHorario{
+    height: 1050px;
+    width: 900px;
+    background-color: #4831c94b;
+    border: 5px solid rgba(1, 131, 170, 0.801); 
+    color: black;
+    border-radius: 10px;
+    margin: 150px auto 150px auto;
+    
+}
+
+.endereço{
+    margin-top: 30px;
+    font-family: OpenSans;
+}
+
+.redes{
+    font-size: 23px;
+    padding: 20px 40px 0px 40px;
+    font-family: Bebas;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+#negrito{
+    font-weight: bolder;
+}
+
+.dia{
+    color: #fafafa;
+}
+
+.titulotabela{
+    color: rgba(43, 35, 18, 0.89);
+}
+
+.horario{
+    color: rgb(58, 58, 58);
+}
+
+/* ---------------------------------------- */
+
+#containerSorvete{
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+#picole, #milk{
+    margin: 120px 50px 20px 90px;
+}
+
+#pote, #vacapreta, #cascao, #sundae{
+    margin: 120px 20px 20px 90px;
+}
+
+.card-title{
+    text-align: center;
+}
+
+.card-text{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.botaozinsaiba{
+    text-align: right;
+}
